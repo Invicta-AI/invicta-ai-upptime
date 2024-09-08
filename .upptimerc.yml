@@ -7,7 +7,7 @@ sites:
     url: https://invictai.io
   - name: Invicta AI App
     url: https://app.invictai.io
- - name: Invicta AI Docs
+  - name: Invicta AI Docs
     url: https://info.invictai.io
 
 status-website:
