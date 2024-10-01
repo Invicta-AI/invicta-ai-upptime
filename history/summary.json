@@ -4,36 +4,40 @@
     "url": "https://invictai.io",
     "icon": "https://icons.duckduckgo.com/ip3/invictai.io.ico",
     "slug": "invicta-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 740,
-    "timeDay": 650,
-    "timeWeek": 752,
-    "timeMonth": 740,
-    "timeYear": 740,
-    "dailyMinutesDown": {}
+    "time": 736,
+    "timeDay": 649,
+    "timeWeek": 739,
+    "timeMonth": 736,
+    "timeYear": 736,
+    "dailyMinutesDown": {
+      "2024-10-01": 0
+    }
   },
   {
     "name": "Invicta AI App",
     "url": "https://app.invictai.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.invictai.io.ico",
     "slug": "invicta-ai-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 758,
-    "timeDay": 663,
-    "timeWeek": 757,
-    "timeMonth": 758,
-    "timeYear": 758,
-    "dailyMinutesDown": {}
+    "time": 748,
+    "timeDay": 584,
+    "timeWeek": 726,
+    "timeMonth": 748,
+    "timeYear": 748,
+    "dailyMinutesDown": {
+      "2024-10-01": 0
+    }
   },
   {
     "name": "Invicta AI Docs",
