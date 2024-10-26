@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/invictai.io.ico",
     "slug": "invicta-ai",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.96%",
-    "time": 715,
-    "timeDay": 814,
+    "uptimeYear": "99.97%",
+    "time": 713,
+    "timeDay": 614,
     "timeWeek": 689,
-    "timeMonth": 708,
-    "timeYear": 715,
+    "timeMonth": 707,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2024-10-01": 24
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.invictai.io.ico",
     "slug": "invicta-ai-app",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "99.92%",
-    "time": 720,
-    "timeDay": 906,
-    "timeWeek": 689,
+    "uptimeYear": "99.93%",
+    "time": 718,
+    "timeDay": 607,
+    "timeWeek": 692,
     "timeMonth": 702,
-    "timeYear": 720,
+    "timeYear": 718,
     "dailyMinutesDown": {
       "2024-10-01": 51
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 284,
-    "timeDay": 214,
-    "timeWeek": 287,
-    "timeMonth": 310,
-    "timeYear": 284,
+    "time": 285,
+    "timeDay": 357,
+    "timeWeek": 288,
+    "timeMonth": 313,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   }
 ]
