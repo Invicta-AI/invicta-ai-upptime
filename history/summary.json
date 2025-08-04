@@ -4,7 +4,7 @@
     "url": "https://invictai.io",
     "icon": "https://icons.duckduckgo.com/ip3/invictai.io.ico",
     "slug": "invicta-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.38%",
@@ -16,6 +16,7 @@
     "timeMonth": 920,
     "timeYear": 899,
     "dailyMinutesDown": {
+      "2025-08-04": 0,
       "2025-07-31": 23,
       "2025-07-28": 39,
       "2025-07-11": 46,
